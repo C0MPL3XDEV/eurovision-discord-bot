@@ -1,0 +1,15 @@
+{
+  "name": "eurovision-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot written with Discord.js about Eurovision Song Contest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "carmine.dev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
